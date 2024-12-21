@@ -1,5 +1,5 @@
 # Hello! 👋
-I am Fernando Carvalho, a passionate Frontend developer specializing in React and Next.js.
+I am Fernando Carvalho, a passionate Frontend developer specialized in React and currently specializing in Next.js.
 
 ## 🌟 About Me
 - 💻 Building amazing projects with **React**, **Next.js**, **TailwindCSS**, **Styled Components**, and **Material-UI (MUI)**.
