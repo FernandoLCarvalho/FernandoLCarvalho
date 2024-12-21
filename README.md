@@ -28,6 +28,8 @@ I am Fernando Carvalho, a passionate Frontend developer specialized in React and
 
 ## 📈 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoLCarvalho&show_icons=true&theme=radical)
+## 📊 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoLCarvalho&layout=compact&theme=radical)
 
 ## 🌍 Where to Find Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
