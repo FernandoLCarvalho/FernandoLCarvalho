@@ -1,6 +1,5 @@
 ## 📈 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoLCarvalho&show_icons=true&theme=radical)
-## 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoLCarvalho&layout=compact&theme=radical)
 
 # Hello! 👋
