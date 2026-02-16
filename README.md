@@ -3,23 +3,19 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoLCarvalho&layout=compact&theme=radical)
 
 # Hello! 👋
-I am Fernando Carvalho, a passionate Frontend developer specialized in React and currently specializing in Next.js.
+I’m **Fernando Carvalho**, a **Frontend Engineer** specialized in **React & Next.js**, focused on **architecture, performance, and scalable web applications**.
 
 ## 🌟 About Me
-- 💻 Building amazing projects with **React**, **Next.js**, **TailwindCSS**, **Styled Components**, and **Material-UI (MUI)**.
-- 🛠 Experienced with creating and managing APIs using **NestJS** and working with **PostgreSQL** and **MariaDB** databases.
-- 🚀 Continuously learning and growing in the tech industry.
+- 💻 Frontend developer working on **production-level systems**
+- 🛠 Strong focus on **performance optimization, memory management, and UX**
+- 🧩 Experienced with **custom hooks, Context API, and modular architecture**
+- 🚀 Continuously improving **architecture, DevOps, and UI/UX practices**
 
 ## 🧰 Tech Stack
 
 ### **Frontend**
-- **React**, **Next.js**, **TailwindCSS**, **Styled Components**, **Material-UI (MUI)**
-- **TypeScript**, **Figma**
-
-### **Backend**
-- **NestJS**
-- **PostgreSQL**, **MariaDB**
-- **JWT Authentication**, **PagSeguro API Integration**
+- **React**, **Next.js**, **TypeScript**, **Material-UI (MUI)**, **TailwindCSS**
+- **Figma**
 
 ### **Version Control**
 - **Git**, **GitHub**, **Azure DevOps**
@@ -28,9 +24,9 @@ I am Fernando Carvalho, a passionate Frontend developer specialized in React and
 - **Docker**, **Vercel**
 
 ### **Operating Systems**
-- **MacOS**
+- **macOS**
 
 ## 🌍 Where to Find Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINK_REAL)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/fernandolcarvalho/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:nando_carvalhoo@hotmail.com)
