@@ -1,7 +1,3 @@
-## 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoLCarvalho&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoLCarvalho&layout=compact&theme=radical)
-
 # Hello! 👋
 I’m **Fernando Carvalho**, a **Frontend Engineer** specialized in **React & Next.js**, focused on **architecture, performance, and scalable web applications**.
 
