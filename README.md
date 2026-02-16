@@ -23,6 +23,6 @@ I’m **Fernando Carvalho**, a **Frontend Engineer** specialized in **React & Ne
 - **macOS**
 
 ## 🌍 Where to Find Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINK_REAL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINK_REAL](https://www.linkedin.com/in/fernandolcarvalho/))
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/fernandolcarvalho/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:nando_carvalhoo@hotmail.com)
