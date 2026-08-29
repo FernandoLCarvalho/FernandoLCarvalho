@@ -1,10 +1,12 @@
 # Fernando Carvalho
 
-**Software Engineer | React/TypeScript · .NET/SQL · Azure · Agentic Workflows & MCP**
+**Software Engineer | React/TypeScript · Product Engineering · Agentic Workflows & MCP**
 
-I build software with a strong foundation in frontend engineering and an increasingly end-to-end scope — product architecture, APIs, data, cloud, CI/CD, production diagnostics, and AI-assisted development workflows.
+I build software with a strong foundation in frontend engineering, product architecture, quality, automation, and AI-assisted development workflows.
 
-My deepest experience is in **React/TypeScript systems**, but my day-to-day work is no longer limited to UI. I work across application boundaries and use coding agents and LLM tooling as engineering tools: with repository context, explicit constraints, tests, review gates, and CI around generated changes.
+My deepest experience is in **React/TypeScript systems**, where I work beyond UI implementation: component and feature architecture, state and data flow, performance, testing, maintainability, product behavior, and delivery workflows.
+
+I also use coding agents and LLM tooling as engineering tools — with repository context, explicit constraints, tests, review gates, and CI around generated changes rather than treating AI as a replacement for engineering decisions.
 
 ## What I work with
 
@@ -15,12 +17,11 @@ My deepest experience is in **React/TypeScript systems**, but my day-to-day work
 - **Storybook**, **Testing Library**, **Vitest**, **Cypress**, **Playwright**
 - **Figma** and design-system-driven implementation
 
-### Backend, Data & Cloud
-- **C# / .NET**, REST APIs, and backend integration
-- **SQL Server**
-- **Azure**, **Azure DevOps**, **Docker**, and CI/CD
-- Production debugging, performance investigation, and application diagnostics
-- **NestJS**, **Fastify**, **Prisma**, and **PostgreSQL** in personal full-stack projects
+### Engineering Workflow & Delivery
+- **Git**, **GitHub**, pull-request-based workflows, and CI/CD
+- Automated tests and quality gates as part of feature delivery
+- Production debugging and performance investigation
+- Repository conventions, technical documentation, and implementation specs
 
 ### Agentic & AI-Assisted Engineering
 Agentic development is part of my normal engineering workflow, not a separate demo layer.
@@ -32,16 +33,16 @@ Agentic development is part of my normal engineering workflow, not a separate de
 - LLM integrations with structured outputs, schema validation, prompt/context design, and clear boundaries between AI and application state
 
 ## Current Focus
-- End-to-end **system design** and backend architecture
-- **Databases**, query behavior, and data modeling
-- **Azure architecture**, observability, and production diagnostics
+- End-to-end **system design** and software architecture
+- Backend and database fundamentals
+- Cloud, observability, and production systems
 - Reliable AI application patterns: tool use, validation, context management, and deterministic boundaries
 - Real-time audio/DSP R&D with **C++20** and **JUCE**
 
 ## Selected Project
 
 ### [Personal Adaptive Planner](https://github.com/FernandoLCarvalho/planning-app)
-Work in progress on a full-stack planning product that turns weekly intent into structured, editable plans. The architecture uses a modular backend with **NestJS / Fastify / Prisma / PostgreSQL**, **React Native / Expo** on mobile, and an AI layer designed around validated structured outputs and explicit system boundaries.
+Work in progress on a planning product that turns weekly intent into structured, editable plans. The project explores end-to-end product architecture and an AI layer designed around validated structured outputs, explicit system boundaries, versioned replanning, and repository-level guidance for coding agents.
 
 ## How I Like to Build
 - Prefer simple architectures with clear boundaries over premature complexity
